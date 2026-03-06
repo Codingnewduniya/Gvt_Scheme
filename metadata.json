@@ -1,0 +1,5 @@
+{
+  "name": "CivicConnect India",
+  "description": "A production-ready civic issue reporting platform for India, featuring citizen reporting and government monitoring dashboards.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
